@@ -157,7 +157,7 @@ A dashboard is only as good as the questions it makes someone ask. My goal was t
 
 
 
-Power BI Dashboard: ![preview]()
+Power BI Dashboard: ![preview](https://github.com/anupamanagireddi01-DataAnalyst/HR-Analytics/blob/main/HR%20Analytics%20Dashboard.PNG)
 
 
 
