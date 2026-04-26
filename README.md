@@ -54,7 +54,9 @@ MetricValue
 
 
 
-📊 Dashboard Sections Explained
+
+📊 Dashboard Sections Explained :
+
 
 
 1. 🔢 KPI Cards
@@ -88,16 +90,16 @@ Clean, simple, and honest. R&D leads at 51.21%, followed by Software at 50.54%. 
 ToolPurpose
 
 
-Power BI Desktop                          Dashboard design & interactivity
+Power BI Desktop                              Dashboard design & interactivity
 
 
-Microsoft Excel / CSV                     Data source & preprocessing
+Microsoft Excel / CSV                         Data source & preprocessing
 
 
-DAX (Data Analysis Expressions)           Custom measures & calculated columns
+DAX (Data Analysis Expressions)               Custom measures & calculated columns
 
 
-Power Query                               Data cleaning & transformation
+Power Query                                   Data cleaning & transformation
 
 
 🎛️ Filters & Interactivity
@@ -114,7 +116,7 @@ Gender — Compare Male vs Female retention trends
 All charts update in real time when filters are applied — so you can slice the data any way you need.
 
 
-💡 What I Learned Building This
+💡 What I Learned Building This :
 
 
 This wasn't just a data exercise — it made me think differently about people problems:
