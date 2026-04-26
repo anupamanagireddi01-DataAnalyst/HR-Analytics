@@ -92,19 +92,19 @@ Clean, simple, and honest. R&D leads at 51.21%, followed by Software at 50.54%. 
 ToolPurpose
 
 
-Power BI Desktop                              : (Dashboard design & interactivity)
+Power BI Desktop                              :         (Dashboard design & interactivity)
 
 
 
-Microsoft Excel / CSV                         : (Data source & preprocessing)
+Microsoft Excel / CSV                         :         (Data source & preprocessing)
 
 
 
-DAX (Data Analysis Expressions)               : (Custom measures & calculated columns)
+DAX (Data Analysis Expressions)               :         (Custom measures & calculated columns)
 
 
 
-Power Query                                   : (Data cleaning & transformation)
+Power Query                                   :          (Data cleaning & transformation)
 
 
 
