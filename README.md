@@ -1,6 +1,9 @@
 # HR-Analytics
 An interactive HR Analytics Dashboard built to analyze employee attrition, work-life balance, income distribution, and departmental retention trends using Power BI.
-##🧭 What is this project about?
+
+
+
+🧭 What is this project about?
 People are the heartbeat of any organization — and when they leave, they take knowledge, culture, and momentum with them. This project is my attempt to understand why employees leave, and more importantly, what patterns hint at it before it happens.
 
 
